@@ -1,2 +1,2 @@
 # My-website
-This is a demo repository for website
+This is an awesome website
