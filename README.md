@@ -3,4 +3,4 @@ This is an awesome website
 
 change the read me
 
-make changes to the master branch
+make changes to the develop branch
