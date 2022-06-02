@@ -3,6 +3,4 @@ This is an awesome website
 
 change the read me
 
-make changes to the update-readme branch
-
-Also update locally
+make changes to the master branch
